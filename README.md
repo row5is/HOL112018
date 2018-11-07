@@ -60,6 +60,9 @@ Click on create a new branch and it will prompt you for a name. Name it anything
 Make some changes to the readme and then commit the changes.
 In the status bar you should see and arrow pointing to a cloud. This is becuase you havne't published the branch up to GitHub. Clicking on the cloud will do that.
 
+If you want to merge your changes into master you can do that by switching to the master branch and then going to the command palette and selecting _Git Merge_. You will be asked which
+branch you want to merge from.
+
 ## Extensions
 
 Also on the left is the VS Code Extensions pane. Click on it to open it.
@@ -68,6 +71,7 @@ Enter Git into the search box and you should see a list of git extensions - we a
 ### GitLens
 
 This is one of my favorite extensions for git. It adds a pane on the left and also shows who changed the line you are currently on in the code and if the line has been committed or not.
+In the GitLens pane you can see information about the repository.
 
 ### Git Blame
 
@@ -75,4 +79,4 @@ This one adds "blame" information in the status bar. You can click on the person
 
 ### Git History
 
-This allows you to show a visual history of the branches and commits.
+This allows you to show a visual history of the branches and commits. It also shows the hash codes.
