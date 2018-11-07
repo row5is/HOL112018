@@ -63,6 +63,11 @@ In the status bar you should see and arrow pointing to a cloud. This is becuase 
 If you want to merge your changes into master you can do that by switching to the master branch and then going to the command palette and selecting _Git Merge_. You will be asked which
 branch you want to merge from.
 
+Make another change to the Readme file and save it.
+Go into the SCM and click on the readme file. You will see the changes you've made since the last commit.
+
+If you want to revert your commit you can click on the arrow bending to the left. You can also accomplish this by typing _git discard changes_ in the command palette.
+
 ## Extensions
 
 Also on the left is the VS Code Extensions pane. Click on it to open it.
