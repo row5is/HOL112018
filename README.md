@@ -59,3 +59,22 @@ A dialog box will open asking if you want to stage and commit the changes, click
 
 At the bottom of the screen in the status bar you should see a double arrow in a circle with numbers and arrows next to them. Click on this and you will synchronize your changes.
 You may be asked to log into github again, if so, log in and continue.
+
+With the SCM still open, hover over the bar above the textbox and you should see an elipse. Click on the elipse. You should see lots of git commands.
+
+## Extensions
+
+Also on the left is the VS Code Extensions pane. Click on it to open it.
+Enter Git into the search box and you should see a list of git extensions - we are not going to be going over all of them.
+
+### GitLens
+
+This is one of my favorite extensions for git. It adds a pane on the left and also shows
+
+### Git Blame
+
+This one adds "blame" information in the status bar.
+
+### Git History
+
+This allows you to show a visual history of the branches and commits.
