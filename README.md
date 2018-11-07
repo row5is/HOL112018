@@ -71,7 +71,7 @@ This is one of my favorite extensions for git. It adds a pane on the left and al
 
 ### Git Blame
 
-This one adds "blame" information in the status bar.
+This one adds "blame" information in the status bar. You can click on the persons name and it will show more information about the commit.
 
 ### Git History
 
