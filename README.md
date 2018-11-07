@@ -11,24 +11,15 @@ Update all branches command
 
 Open a PowerShell command window and enter the following
 
-```
-install-module posh-git
-
-```
+`install-module posh-git`
 
 After posh-git has been installed you can import the module.
 
-```
-Import-Module posh-git
-
-```
+`Import-Module posh-git`
 
 If you want posh-git to be available all the time you can enter the following command
 
-```
-Add-PoshGitToProfile
-
-```
+`Add-PoshGitToProfile`
 
 If you go to a directory that contains a git repo you should see the prompt change to the current status of that repo.
 
@@ -65,6 +56,9 @@ With the SCM still open, hover over the bar above the textbox and you should see
 In the status bar you can see the branch name - it should be master.
 Click on the name and you will get an option to create a branch.
 Click on create a new branch and it will prompt you for a name. Name it anything you want. Spaces will be turned into hyphens.
+
+Make some changes to the readme and then commit the changes.
+In the status bar you should see and arrow pointing to a cloud. This is becuase you havne't published the branch up to GitHub. Clicking on the cloud will do that.
 
 ## Extensions
 
