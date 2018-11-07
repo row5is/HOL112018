@@ -35,3 +35,5 @@ You will be presented with a text box that allows you to enter a repos URL.
 Enter the url from the Phillydotnet git repo for this lab.
 You will be prompted for a location to put the repo. The repo will be place into a subdirectory under the directory you select.
 After the repo downloads you will get a dialog asking if you would like to open the repo. CLick the Open Respostory button.
+
+At thsi point you may be asked to log into Github.com. If you are, then click the _Sign in_ button.
