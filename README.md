@@ -76,7 +76,7 @@ Enter Git into the search box and you should see a list of git extensions - we a
 ### GitLens
 
 This is one of my favorite extensions for git. It adds a pane on the left and also shows who changed the line you are currently on in the code and if the line has been committed or not.
-In the GitLens pane you can see information about the repository.
+In the GitLens pane you can see information about the repository. Gitlens also adds some buttons to the top right of the screen that can be used to see changes.
 
 ### Git Blame
 
