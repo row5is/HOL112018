@@ -67,7 +67,7 @@ Enter Git into the search box and you should see a list of git extensions - we a
 
 ### GitLens
 
-This is one of my favorite extensions for git. It adds a pane on the left and also shows
+This is one of my favorite extensions for git. It adds a pane on the left and also shows who changed the line you are currently on in the code and if the line has been committed or not.
 
 ### Git Blame
 
