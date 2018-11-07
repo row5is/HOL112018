@@ -14,12 +14,6 @@ Open a PowerShell command window and enter the following
 ```
 install-module posh-git
 
-
-
-
-
-
-
 ```
 
 After posh-git has been installed you can import the module.
@@ -27,24 +21,12 @@ After posh-git has been installed you can import the module.
 ```
 Import-Module posh-git
 
-
-
-
-
-
-
 ```
 
 If you want posh-git to be available all the time you can enter the following command
 
 ```
 Add-PoshGitToProfile
-
-
-
-
-
-
 
 ```
 
@@ -73,3 +55,7 @@ Make some changes to the readme file - save it - then go back to the command pro
 
 On the left side of the screen you should see a number in the SCM button. Click on it and you should see the readme file listed with an M (for modified).
 There is a text box at the top of the pane, enter a commit message and then hit the check mark (or Ctrl-Enter).
+A dialog box will open asking if you want to stage and commit the changes, click Yes.
+
+At the bottom of the screen in the status bar you should see a double arrow in a circle with numbers and arrows next to them. Click on this and you will synchronize your changes.
+You may be asked to log into github again, if so, log in and continue.
