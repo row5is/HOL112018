@@ -62,6 +62,10 @@ You may be asked to log into github again, if so, log in and continue.
 
 With the SCM still open, hover over the bar above the textbox and you should see an elipse. Click on the elipse. You should see lots of git commands.
 
+In the status bar you can see the branch name - it should be master.
+Click on the name and you will get an option to create a branch.
+Click on create a new branch and it will prompt you for a name. Name it anything you want. Spaces will be turned into hyphens.
+
 ## Extensions
 
 Also on the left is the VS Code Extensions pane. Click on it to open it.
